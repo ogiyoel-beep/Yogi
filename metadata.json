@@ -1,0 +1,6 @@
+{
+  "name": "Imago Dei - Diri & Keunikan Katolik Y7",
+  "description": "Media pembelajaran Pendidikan Agama Katolik SMP Kelas 7 tentang Mengenal Diri Sendiri, Keunikan Citra Allah, serta Game Kolaboratif Mosaik Tubuh Kristus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
